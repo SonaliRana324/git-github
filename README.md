@@ -1,2 +1,1 @@
-# git-github
-this is for learning purpose only.
+Hi, I'm a python programmer
